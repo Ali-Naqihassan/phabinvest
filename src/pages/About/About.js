@@ -16,7 +16,7 @@ const About = () => {
           <span className="text-primeColor font-semibold text-lg">RTC</span>{" "}
           ,  is your premier destination for a seamless e-commerce experience. As a pioneering e-commerce platform, RTC is committed to providing a diverse range of high-quality products, ensuring that customers find everything they need in one convenient space.
 
-          At RTC, we prioritize reliability, transparency, and customer satisfaction. Our platform boasts a user-friendly interface, making online shopping a breeze for customers of all backgrounds. We understand the importance of trust in the online marketplace, and that's why we have stringent quality control measures in place to guarantee the authenticity and excellence of every product we offer.
+          At RTC, we prioritizee reliability, transparency, and customer satisfaction. Our platform boasts a user-friendly interface, making online shopping a breeze for customers of all backgrounds. We understand the importance of trust in the online marketplace, and that's why we have stringent quality control measures in place to guarantee the authenticity and excellence of every product we offer.
 
           Our commitment extends beyond the transaction – we aim to build lasting relationships with our customers. From trending fashion and cutting-edge electronics to everyday essentials, RTC curates a catalog that meets the evolving needs and preferences of our diverse customer base.
 
